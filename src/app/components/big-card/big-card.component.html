@@ -2,7 +2,7 @@
 <div class="container__big-card">
   <!-- e essas tres div são "caixas" menores -->
   <div class="big-card__photo">
-    <img src="https://1.bp.blogspot.com/-fN5cQBzWbfQ/XvYrg2slDJI/AAAAAAAAGs4/Uw_JKqFvSdIRGGS14yCZEDeBIBftxCjUACLcBGAsYHQ/s1600/TTT.jpg"
+    <img src="{{ photoCover }}"
     height="250px"
     alt=""
     srcset=""
@@ -10,12 +10,12 @@
   </div>
 
   <div class="big-card__title">
-    <h1><a href="#">Saiu a nova versão do Angular</a></h1>
+    <h1><a href="#">{{ cardTitle   }}</a></h1>
 
   </div>
 
   <div class="big-card__description">
-    <p><a href="#">Corra para acessar o blog do Matheus para saber de mais</a></p>
+    <p><a href="#">{{ cardDescription }}</a></p>
 
   </div>
 
