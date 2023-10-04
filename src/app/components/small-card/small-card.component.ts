@@ -11,7 +11,7 @@ export class SmallCardComponent implements OnInit {
   @Input()
   titleCover:string = ""
   @Input()
-  Id:string = "0"
+  id:string = "0"
 
   constructor() { }
 
