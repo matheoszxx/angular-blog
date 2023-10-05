@@ -8,9 +8,9 @@ import { dataFake } from '../../data/dataFake'
   styleUrls: ['./content.component.css']
 })
 export class ContentComponent implements OnInit {
-  photoCover:string = ""
+  photoCover:string = " "
   contentTitle:string = " "
-  contentDescription:string = ""
+  contentDescription:string = " "
   //so vai ser utilizado dentro dessa classe
   private id:string | null = "0"
 

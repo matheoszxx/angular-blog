@@ -7,8 +7,8 @@ export const dataFake = [
   },
   {
     "id": "2",
-    "title":"SAIU O NOVO RED DEAD REDEMPTION",
-    "description": "Rockstar surpreende todo mundo e lança antes do GTA 6",
+    "title":"ENTENDA A HISTORIA DO JOGO QUE REVOLUCIONOU",
+    "description": "TLOU foi um jogo lançado em 2013 para a plataforma de PS3 e acabou conquistando o coração dos gamers.",
     "photoCover": "https://olhardigital.com.br/wp-content/uploads/2023/01/the-last-of-us-part-1-e1674487015917.jpeg"
   }
 ]
